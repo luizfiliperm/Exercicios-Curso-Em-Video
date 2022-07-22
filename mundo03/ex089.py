@@ -28,3 +28,4 @@ while True:
     else:
         print(f"As notas de {boletim[mostrar_notas][0]} são: {boletim[mostrar_notas][1]}")
         print("-" * 40)
+        
