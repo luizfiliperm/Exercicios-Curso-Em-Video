@@ -6,5 +6,5 @@
 
 num = int(input("Deseja criar até qual arquivo?")) + 1
 
-for i in range(72, num):
+for i in range(106, num):
     open(f'mundo03/ex{i}.py', "a")
